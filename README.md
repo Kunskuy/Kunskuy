@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center">
+<img src="https://c.tenor.com/qInXnef1jaAAAAAM/kobo-kanaeru-caffeine.gif">
+</p>
 
-<!--
-**Kunskuy/Kunskuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>HI, I'm Kun</h1>
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
+masih belajar.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align=center>
+<a href="#" title="Kunskuy">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunskuy&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+</a>
+
+<a href="#" title="Kunskuy">
+  <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Kunskuy&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</a>
+</div>
